@@ -1,2 +1,2 @@
-# Aim-Projects
-For Aurorus Collections Online
+## Aim-Projects
+Group Project for Aurorus Collections Online
